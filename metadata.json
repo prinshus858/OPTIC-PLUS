@@ -1,0 +1,7 @@
+{
+  "name": "Optik Plus - Best Optician in Gomti Nagar, Lucknow",
+  "description": "Premium eyewear at unbeatable prices. Visit Optik Plus near Shaheed Chandrashekhar Azad Chowk, Gomti Nagar, Lucknow. Call 08874432534.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
